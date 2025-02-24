@@ -20,7 +20,7 @@
 
 
 <div align="left">
-<span align="right" style="float: right; margin-right: 20px; color: #6a737d; font-size: 0.9em; letter-spacing: 0.5px;">
+<span align="right" style="float: right; margin-right: 20px; color: #6a737d; font-size: 1.2em; letter-spacing: 0.5px;">
 ✨ Total stars (include contribution): <b>2.4K</b>
 </span>
 
